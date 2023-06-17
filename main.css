@@ -1,0 +1,52 @@
+.container {
+display: flex;
+justify-content: space-between;
+}
+.box{
+margin-top: 80px;
+margin-left: 80px;
+margin-bottom: 80px;
+width: 2229px;
+height: 600px;
+background: linear-gradient(135.53deg, #F0F0F0 27.37%, #9B9B9B 100%);
+}
+.text{
+margin-top: 170px;
+margin-right: 80px;
+margin-bottom: 210px;
+margin-left: 40px;
+}
+h2{
+font-family: 'Open Sans';
+font-style: normal;
+font-size: 20px;
+font-weight: 600;
+}
+h1{
+font-family: 'Open Sans';
+font-style: normal;
+font-size: 60px;
+font-weight: 700;
+line-height: 68px;
+}
+p{
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+}
+button{
+background-color: black;
+color: white;
+border: none;
+padding: 10px 20px;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 24px;
+}
+h1, h2, p, button{
+    margin-bottom: 30px;
+}
